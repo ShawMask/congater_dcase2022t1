@@ -3,7 +3,7 @@
 This Repository is dedicated to the Author submission of to Eusipco 2023.
 
 
-The skeleton of the code is similar to [previous CPJKU submissions](https://github.com/kkoutini/cpjku_dcase20) and the [PaSST](https://github.com/kkoutini/PaSST) repository.
+The skeleton of the code is similar to [CPJKU submissions to DCASE2022](https://github.com/CPJKU/cpjku_dcase22) and the [PaSST](https://github.com/kkoutini/PaSST) repository.
 
 
 # Setting up the Environment:
