@@ -55,7 +55,9 @@ to log the files you can use pip install wandb
 
 sample run code:
 
+```
 CUDA_VISIBLE_DEVICES=0 python -m experiments.dcase22.t1.congater_ex with Lgate_last lambda_scheduler=0 da_lambda=2 training_method=par wandb=1
+```
 
 CUDA_VISIBLE_DEVICES: Select the GPU id
 
