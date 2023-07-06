@@ -7,7 +7,7 @@ attrs==21.4.0
 audioread==2.1.9
 -e git+https://github.com/kkoutini/ba3l@v0.0.2#egg=ba3l
 cachetools==5.2.0
-certifi==2022.5.18.1
+certifi==2022.12.7
 cffi==1.15.0
 charset-normalizer==2.0.12
 colorama==0.4.5
