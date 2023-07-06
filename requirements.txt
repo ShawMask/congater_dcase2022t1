@@ -38,7 +38,7 @@ multidict==6.0.2
 munch==2.5.1.dev12
 numba==0.55.2
 numpy==1.22.4
-oauthlib==3.2.0
+oauthlib==3.2.2
 packaging==21.3
 pandas==1.4.2
 Pillow==9.1.1
