@@ -23,7 +23,7 @@ gitdb==4.0.9
 GitPython==3.1.27
 google-auth==2.8.0
 google-auth-oauthlib==0.4.6
-grpcio==1.47.0rc1
+grpcio==1.53.0
 idna==3.3
 imageio==2.19.3
 importlib-metadata==4.11.4
